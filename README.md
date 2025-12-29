@@ -1,9 +1,7 @@
 # end_of_philosophy
 these text are for the canonical understanding of the world itself
 
-the texts are not all polished yet, only 'state' and 'understood' are somewhat polished
-
-all the texts are for understanding, so either one have understood it or not
+all the texts are for understanding, so having read it either one have understood it or not
 
 ***
 
@@ -13,9 +11,9 @@ being: the bare sense of Being, that philosophy have been stuck with since the v
 
 authority: shows that final understanding should be obvious once is understood
 
-state: critique of worldy cope
-
 understood: the canonical understanding itself
+
+state: critique of worldy cope, in addition for the understanding
 
 ***
 
